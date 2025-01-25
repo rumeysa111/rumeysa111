@@ -61,8 +61,5 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumeysa111&show_icons=true&locale=en&layout=compact" alt="rumeysa111" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumeysa111&" alt="rumeysa111" />
-</p>
 
 
