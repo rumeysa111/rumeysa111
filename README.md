@@ -59,10 +59,10 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumeysa111&show_icons=true&locale=en&layout=compact" alt="rumeysa111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumeysa111&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" />
 </p>
-
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumeysa111&" alt="rumeysa111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rumeysa111&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
 </p>
+
