@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Flutter and Node.js projects**  
 - 🌱 I’m currently learning **React Native and Jetpack Compose**  
 - 🎓 I’m a 3rd-year **Computer Engineering Student**  
-- 📱 Passionate about **mobile app development** with a focus on **Flutter**  
+- 📱 I'm interested in  **mobile app development** with **Flutter**  
 - 📫 How to reach me **rumeysasemiz11@gmail.com**  
 
 ---
